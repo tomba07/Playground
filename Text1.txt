@@ -1,1 +1,3 @@
 Hi, this is some first Text. What do you think about it? =)
+
+Greetings from user2!
