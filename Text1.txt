@@ -6,3 +6,4 @@ Greetings from user2!
 Some more changes
 
 Master changes
+Some branch-changes :)
